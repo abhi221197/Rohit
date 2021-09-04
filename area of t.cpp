@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main() {
-	int l,b,a ;
+	int l,b,a ,b;
 	printf("enter the values : ");
 	scanf("%d%d",&l,&b);
 	a=0.5*l*b;
